@@ -1,3 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/Ok1bQVvE/raw"))()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/FakeModz/LimitHub/refs/heads/main/LimitHub_Luarmor_E.lua')))()
-loadstring(game:HttpGet("https://codeberg.org/darkdarkdark/roblox/raw/branch/main/AutoJoiner.lua"))()
